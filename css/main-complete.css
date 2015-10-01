@@ -31,6 +31,7 @@ html, body{
     background-color: #222;
 }
 h1{
+    font-family: Calibri;
     color: #d4d4d4;
     text-shadow: -2px -2px 2px gold,
                   2px  2px 2px #000;
