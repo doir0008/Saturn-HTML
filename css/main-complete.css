@@ -76,6 +76,7 @@ nav li{
     margin-left: 10%;
     margin-right: 10%;
     background-color: #444;
+    max-width: 1000px;
 }
 #masthead{
     background-image: url("http://doir0008.github.io/Saturn-HTML/img/saturnv1.jpg");
